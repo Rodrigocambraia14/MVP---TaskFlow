@@ -5,3 +5,5 @@ As dependências foram identificadas e resolvidas.
 O Product Owner revisou e priorizou a história no backlog.
 Os protótipos ou layouts, se aplicáveis, estão anexados.
 Dados de teste (mockados ou reais) estão disponíveis.
+Segurança: A funcionalidade atende aos padrões mínimos de proteção de dados (ex.: encriptação para dados sensíveis).
+Desempenho esperado: A funcionalidade deve ser capaz de suportar 100 usuários simultâneos.
