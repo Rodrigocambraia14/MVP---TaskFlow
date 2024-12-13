@@ -1,0 +1,8 @@
+O código foi desenvolvido e passou nos testes locais.
+Testes automatizados foram criados e aprovados.
+O código foi revisado e aprovado por outro desenvolvedor.
+A funcionalidade foi testada pelo QA e está funcionando como esperado.
+Não há bugs críticos ou bloqueadores.
+A documentação técnica e/ou do usuário foi atualizada.
+O código foi integrado ao repositório principal.
+A funcionalidade foi demonstrada ao Product Owner e aceita.
