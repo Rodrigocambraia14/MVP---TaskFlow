@@ -1,0 +1,7 @@
+A história possui uma descrição clara e compreensível.
+Critérios de aceitação estão definidos e revisados.
+A história está estimada (em story points ou horas).
+As dependências foram identificadas e resolvidas.
+O Product Owner revisou e priorizou a história no backlog.
+Os protótipos ou layouts, se aplicáveis, estão anexados.
+Dados de teste (mockados ou reais) estão disponíveis.
