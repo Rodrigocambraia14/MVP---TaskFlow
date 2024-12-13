@@ -6,3 +6,5 @@ Não há bugs críticos ou bloqueadores.
 A documentação técnica e/ou do usuário foi atualizada.
 O código foi integrado ao repositório principal.
 A funcionalidade foi demonstrada ao Product Owner e aceita.
+Desempenho: A funcionalidade atendeu aos critérios de tempo de resposta definidos (ex.: < 2 segundos para operações críticas).
+Conformidade: O código segue os padrões de segurança e boas práticas estabelecidos pelo time.
